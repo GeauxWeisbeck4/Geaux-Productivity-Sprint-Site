@@ -1,19 +1,14 @@
-# 11ty SASS [LIVE DEMO](https://11ty-sass.netlify.app/)
+# Geaux Productivity Sprint Site
 
-A simple starter template for blogs made with 11ty and SASS. Night mode ready 🌕
+This needs to be redone. I am going to go through all my Section 4 courses and update them with correct course info and also make the websites more pretty. This is a disgrace Andrew!
 
-* [View on Netlify](https://11ty-sass.netlify.app/)
-* [View on GitHub](https://github.com/NikitaZanella/11ty-SASS)
+# To Do 
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NikitaZanella/11ty-SASS)
+- [ ] Alot of shit
+- [ ] Make the site yours
+- [ ] Set up an agile workflow
+- [ ] Add course data and your own blog posts
 
-## How you can use it
-1. [Create your own new repo from this template](https://github.com/NikitaZanella/11ty-SASS/generate), or [clone this one](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-2. Install dependencies: `npm i` or `npm install`
-3. Start development: `npm run start`
-4. Visit http://localhost:8080 to see your work-in-progress
-5. Do your things with Eleventy and SASS and see your changes instantly!
-6. When you’re projet is ready: `npm run build`
-7. Host your project on [Netlify](https://www.netlify.com/)
+## More to come!
 
-That’s all!
+Check in soon!
